@@ -1,0 +1,91 @@
+
+
+html {
+  font-size: 100%; /* keep */
+}
+
+
+body {
+  background: linear-gradient(#e66465, #9198e5);
+  font-family: 'Lato', sans-serif;
+  color: #40236A; /* keep */
+  margin: 0 auto; /* keep */
+  max-width: 800px;
+}
+
+
+img {
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+header{
+  background-color: #89C273;
+}
+
+h1 {
+  font-family: 'Chewy', cursive;
+  letter-spacing: .15rem;
+  font-size: xx-large;
+}
+
+h2 {
+  font-family: 'Oswald', sans-serif;
+  letter-spacing: .1rem;
+
+}
+
+p {
+  max-width: 550px;
+  font-family: 'Lato', sans-serif;
+}
+
+article {
+ padding: 2rem;
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+}
+
+footer {
+  padding: 2rem;
+  margin: auto;
+}
+
+
+
+#container {
+  display: flex;
+  flex-direction: column;
+  max-width: 800px;
+  color: #40236A;
+  background: #eff9ef;
+}
+
+#header-text {
+  color:  #40236A;
+  padding: 0 0 0 2rem;
+}
+
+#indented {
+  text-indent: 2rem;
+}
+
+#tiles {
+  align-items: center;
+  max-width: 300px;
+}
+
+
+
+
+
+
+
+/* colors:
+Deep purple: #40236A
+lighter purple: #632D83
+pink: #C748B2
+green: #89C273
+Robin's egg gray: #BFCDE9
+*/
